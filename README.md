@@ -34,7 +34,7 @@ The analysis aims to:
 5. Highlight underperforming regions or products.
 
 ## Key Insights
-- **Top Products**: Products in the `Bikes` category contribute to the highest revenue share.
+- **Top Products**: Products in the `Accessories` category contribute to the highest revenue share.
 - **Seasonal Trends**: Sales peak during the month of May making highest profit, while July shows the least profit
 - **Regional Insights**: United States has recorded the highest total revenue collection, while Australia shows growth potential.
 - **Customer Insights**: Repeat customers contribute to 60% of total revenue.
